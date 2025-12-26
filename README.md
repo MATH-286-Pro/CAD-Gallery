@@ -10,11 +10,11 @@ From Death Stranding
 <img src="Pictures/2021/Hand/hand.png" alt="2021 Hand" width="60%"/>
 
 ## Hydro-Foil (2021)
-Hydrofoil boat in water
+Hydrofoil boat in water  
 <img src="Pictures/2021/Hydrofoil/2021 Hydro-Foil.png" alt="2021 Hydro-Foil" width="80%"/>
 
 ## Hydro-Foil (2023)
-Hydrofoil boat in water
+Hydrofoil boat in water  
 <img src="Pictures/2023/Hydrofiol//2023 Hydro-Foil.png" alt="2023 Hydro-Foil" width="80%"/>
 
 ## Gearbox (2023)

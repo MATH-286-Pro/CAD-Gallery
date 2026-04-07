@@ -72,8 +72,21 @@ My design win the 1st. place in the final speed competition.
 ## Balance-Bot (2024)
 Project for graduate design  
 I made it open source and you can find detailed info at this [repo](https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0)
+
+**Project Description:**  
+This project is to make a robot carrying people's largage in airport. The robot keep its balance using two wheels and can follow user via UWB locolization module.
+
+**My Role:**  
+I was responsible for machnical design, electrical component selection (e.g. joint motor, STM32 board), and also control algorithm coding. You can find my building process in this [video](https://www.bilibili.com/video/BV1Zm421P7HA/?spm_id_from=333.999.0.0&vd_source=4c878cdda4a827e2590557bcbb57b3e5).  
+
+
+This graduation project received best mechanical design reward, and has already been used as a model project to guide subsequent graduation projects.
+
 <img src="Pictures/2024/2024 Balance-Bot.png" alt="2024 Balance-Bot" width="80%"/>
 
+<img src="Pictures/2024/2024 BB1.jpg" alt="2024 Balance-Bot" width="80%"/>
+
+<img src="Pictures/2024/2024 BB2.jpg" alt="2024 Balance-Bot" width="80%"/>
 
 ## Gimbal (2024)
 <img src="Pictures/2024/2024 Gimbal.png" alt="2024 Gimbal" width="80%"/>

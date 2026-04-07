@@ -23,13 +23,44 @@ From Game: Death Stranding
 ME170: Course Project  
 <img src="Pictures/2021/Hand/hand.png" alt="2021 Hand" width="60%"/>
 
-## Hydro-Foil (2021)
+## Hydro-Foil gen1 (2021)
 Hydrofoil boat in water  
+
+Won 1st place in speed competition in 2021. 
+
 <img src="Pictures/2021/Hydrofoil/2021 Hydro-Foil.png" alt="2021 Hydro-Foil" width="80%"/>
 
-## Hydro-Foil (2023)
+<img src="Pictures/2021/Hydrofoil/2021 boat1.png" alt="2021 Hydro-Foil" width="80%"/>
+
+<img src="Pictures/2021/Hydrofoil/2021 boat2.png" alt="2021 Hydro-Foil" width="80%"/>
+
+<table>
+  <tr>
+    <td valign="top" width="40%" align="center">
+      <img src="Pictures/2021/Hydrofoil/2021 boat4.png" alt="2020 Odradek" width="100%"><br>
+      Boat skeleton assembly
+    </td>
+    <td valign="top" width="55%" align="center">
+      <img src="Pictures/2021/Hydrofoil/2021 boat5.png" alt="Odradek" width="100%"><br>
+      In water test
+    </td>
+  </tr>
+</table>
+
+
+## Hydro-Foil gen2 (2023)
 Hydrofoil boat in water  
+
+Won 1st. place in speed and turning competition in 2023.
+50% faster than 2nd. place in turning competition.
+
 <img src="Pictures/2023/Hydrofiol//2023 Hydro-Foil.png" alt="2023 Hydro-Foil" width="80%"/>
+
+<img src="Pictures/2023/Hydrofiol//2023 boat1.png" alt="2023 Hydro-Foil" width="80%"/>
+
+<img src="Pictures/2023/Hydrofiol//2023 boat2.png" alt="2023 Hydro-Foil" width="80%"/>
+
+<img src="Pictures/2023/Hydrofiol//2023 boat3.png" alt="2023 Hydro-Foil" width="80%"/>
 
 ## Gearbox (2023)
 ME371: Course Project  
@@ -50,7 +81,7 @@ Under this design, the final first-gear reduction ratio is 5.4:1, while another 
 CAD design took around 2 week. Then I started to print the planntery gear using my Voron 0.1 printer. 
 
 **Result:**   
-My design win the 1st. place in the final speed competition.  
+My design completed the speed race in 18 seconds and won the 1st. place. The 2nd. place took 31 seconds to finish and 3rd. place took 1 minutes.  
 <img src="Pictures/2023/Gearbox/2023 Gear-Box.png" alt="2023 Gearbox" width="80%"/>
 
 <table>
@@ -84,9 +115,18 @@ This graduation project received best mechanical design reward, and has already 
 
 <img src="Pictures/2024/2024 Balance-Bot.png" alt="2024 Balance-Bot" width="80%"/>
 
-<img src="Pictures/2024/2024 BB1.jpg" alt="2024 Balance-Bot" width="80%"/>
+<img src="Pictures/2024/2024 BB3.jpg" alt="2024 Balance-Bot" width="80%"/>
 
 <img src="Pictures/2024/2024 BB2.jpg" alt="2024 Balance-Bot" width="80%"/>
 
 ## Gimbal (2024)
+**Project Description:**  
+The gimbal for RoboMaster 2023/2024 competition. The gimbal will shoot 17mm diameter ball and is one of the most important part on robot. This design decresed parts number by 60% compared to last generation, which makes it much easier to maintain and repair.   
+
+The robot in the photo below is the MVP robot in our team.
+
 <img src="Pictures/2024/2024 Gimbal.png" alt="2024 Gimbal" width="80%"/>
+
+<img src="Pictures/2024/2024 Gimbal2.jpg" alt="2024 Gimbal" width="80%"/>
+
+<img src="Pictures/2024/2024 Gimbal1.JPG" alt="2024 Gimbal" width="80%"/>

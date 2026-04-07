@@ -5,14 +5,17 @@ Currently only Chinese tutorials available, may have English version in the futu
 ## Odradek (2020)
 From Game: Death Stranding  
 
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="Pictures/2020/2020 Odradek.png" alt="2020 Odradek" style="width: 50%;" />
-
-  <div style="width: 55%; text-align: center;">
-    <img src="Pictures/2020/Odradek.png" alt="Odradek" style="width: 100%;" />
-    <div style="margin-top: 8px; font-size: 14px; color: #555;">Odradek Detector In Game</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="45%">
+      <img src="Pictures/2020/2020 Odradek.png" alt="2020 Odradek" width="100%">
+    </td>
+    <td valign="top" width="55%" align="center">
+      <img src="Pictures/2020/Odradek.png" alt="Odradek" width="100%"><br>
+      Odradek Detector In Game
+    </td>
+  </tr>
+</table>
 
 
 
@@ -48,22 +51,20 @@ CAD design took around 2 week. Then I started to print the planntery gear using 
 
 **Result:**   
 My design win the 1st. place in the final speed competition.  
-<img src="Pictures/2023/Gearbox//2023 Gear-Box.png" alt="2023 Gearbox" width="80%"/>
+<img src="Pictures/2023/Gearbox/2023 Gear-Box.png" alt="2023 Gearbox" width="80%"/>
 
-
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-
-  <div style="width: 68%; text-align: center;">
-    <img src="Pictures/2023/Gearbox/2023 Gear-Box-Section.png" alt="Odradek" style="width: 100%;" />
-    <div style="margin-top: 8px; font-size: 14px; color: #555;">Section view of gear box</div>
-  </div>
-
-
-  <div style="width: 32%; text-align: center;">
-    <img src="Pictures/2023/Gearbox/2023 Gear-Box-with-driver.jpg" alt="Odradek" style="width: 100%;" />
-    <div style="margin-top: 8px; font-size: 14px; color: #555;">I'm "driving" the cart</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="65%" align="center">
+      <img src="Pictures/2023/Gearbox/2023 Gear-Box-Section.png" alt="2023 Gearbox Section" width="100%"><br>
+      Section view of gear box
+    </td>
+    <td valign="top" width="32%" align="center">
+      <img src="Pictures/2023/Gearbox/2023 Gear-Box-with-driver.jpg" alt="2023 Gearbox Driving" width="100%"><br>
+      I'm "driving" the cart
+    </td>
+  </tr>
+</table>
 
 
 
